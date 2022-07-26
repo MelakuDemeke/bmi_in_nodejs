@@ -1,0 +1,19 @@
+{
+  "name": "bmi_in_nodejs",
+  "version": "1.0.0",
+  "description": "bmin calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MelakuDemeke/bmi_in_nodejs.git"
+  },
+  "author": "melaku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MelakuDemeke/bmi_in_nodejs/issues"
+  },
+  "homepage": "https://github.com/MelakuDemeke/bmi_in_nodejs#readme"
+}
