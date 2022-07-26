@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MelakuDemeke/bmi_in_nodejs/issues"
   },
-  "homepage": "https://github.com/MelakuDemeke/bmi_in_nodejs#readme"
+  "homepage": "https://github.com/MelakuDemeke/bmi_in_nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
